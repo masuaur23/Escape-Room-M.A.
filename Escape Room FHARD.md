@@ -25,3 +25,5 @@ función?
 6. (B) ¿Qué nombre exacto debe tener obligatoriamente el archivo de la BIOS dentro del pendrive
 para que la placa lo reconozca al pulsar el botón Q-Flash Plus?
 - Una vez descargada y descomprimida la BIOS desde la web de Gigabyte, se renombra el archivo exactamente a GIGABYTE.bin (en un pendrive formateado en FAT32).
+
+- Fet per: Miquel Àngel Suau
